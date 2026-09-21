@@ -1,0 +1,15 @@
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\bin\Debug\net10.0\ProjetoAvaliacao.exe
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\bin\Debug\net10.0\ProjetoAvaliacao.deps.json
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\bin\Debug\net10.0\ProjetoAvaliacao.runtimeconfig.json
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\bin\Debug\net10.0\ProjetoAvaliacao.dll
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\bin\Debug\net10.0\ProjetoAvaliacao.pdb
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\ProjetoAvaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\ProjetoAvaliacao.AssemblyInfoInputs.cache
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\ProjetoAvaliacao.AssemblyInfo.cs
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\ProjetoAvaliacao.csproj.CoreCompileInputs.cache
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\ProjetoAvaliacao.sourcelink.json
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\ProjetoAvaliacao.dll
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\refint\ProjetoAvaliacao.dll
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\ProjetoAvaliacao.pdb
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\ProjetoAvaliacao.genruntimeconfig.cache
+C:\Users\cecilia62047266\Documents\GitHub\Avaliação.POO\ProjetoAvaliacao\obj\Debug\net10.0\ref\ProjetoAvaliacao.dll
